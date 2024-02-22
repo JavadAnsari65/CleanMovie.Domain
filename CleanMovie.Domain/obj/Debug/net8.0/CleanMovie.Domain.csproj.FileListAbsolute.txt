@@ -1,0 +1,11 @@
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Domain\bin\Debug\net8.0\CleanMovie.Domain.deps.json
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Domain\bin\Debug\net8.0\CleanMovie.Domain.dll
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Domain\bin\Debug\net8.0\CleanMovie.Domain.pdb
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net8.0\CleanMovie.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net8.0\CleanMovie.Domain.AssemblyInfoInputs.cache
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net8.0\CleanMovie.Domain.AssemblyInfo.cs
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net8.0\CleanMovie.Domain.csproj.CoreCompileInputs.cache
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net8.0\CleanMovie.Domain.dll
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net8.0\refint\CleanMovie.Domain.dll
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net8.0\CleanMovie.Domain.pdb
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net8.0\ref\CleanMovie.Domain.dll

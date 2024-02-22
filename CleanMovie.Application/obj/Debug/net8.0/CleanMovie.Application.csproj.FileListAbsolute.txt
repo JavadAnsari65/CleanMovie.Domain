@@ -1,0 +1,15 @@
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Application\bin\Debug\net8.0\CleanMovie.Application.deps.json
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Application\bin\Debug\net8.0\CleanMovie.Application.dll
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Application\bin\Debug\net8.0\CleanMovie.Application.pdb
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Application\bin\Debug\net8.0\CleanMovie.Domain.dll
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Application\bin\Debug\net8.0\CleanMovie.Domain.pdb
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.csproj.AssemblyReference.cache
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.AssemblyInfoInputs.cache
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.AssemblyInfo.cs
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.csproj.CoreCompileInputs.cache
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.csproj.CopyComplete
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.dll
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net8.0\refint\CleanMovie.Application.dll
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.pdb
+D:\Hampadco\Excercises\CleanArchitecture\CleanMovieProject\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net8.0\ref\CleanMovie.Application.dll
